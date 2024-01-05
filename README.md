@@ -1,3 +1,4 @@
 # my-demo-repo
-This is my first repository
-Author - Sahil Tambe
+This is my first repository.
+<br>
+Author - Sahil Tambe.
